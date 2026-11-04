@@ -1,4 +1,6 @@
 
+# MLOps From Training to Production
+
 This repository is my hands-on exploration of MLOps, from preparing and training machine learning models to deploying, monitoring, maintaining, and continuously improving them in production.
 
 The goal is to understand what happens after a machine learning model is trained.
